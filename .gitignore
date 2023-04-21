@@ -1,0 +1,6 @@
+node_modules
+.env
+*env*
+# this file is prompted to download when setting up OAuth
+client_secret_47652665519-917if5evdhun037cvlbjepoojmv62sda.apps.googleusercontent.com
+meta.txt
